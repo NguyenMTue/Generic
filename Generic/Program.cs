@@ -26,9 +26,9 @@ namespace Generic
                     case 1:
                         Bai1.Run();
                         break;
-                    // case 2:
-                    //     Bai2.Run();
-                    //     break;
+                    case 2:
+                        Bai2.Run();
+                        break;
                     // case 3:
                     //     Bai3.Run();
                     //     break;
