@@ -1,0 +1,15 @@
+E:\Tue\225\C#\Generic\Generic\bin\Debug\net10.0\Generic.exe
+E:\Tue\225\C#\Generic\Generic\bin\Debug\net10.0\Generic.deps.json
+E:\Tue\225\C#\Generic\Generic\bin\Debug\net10.0\Generic.runtimeconfig.json
+E:\Tue\225\C#\Generic\Generic\bin\Debug\net10.0\Generic.dll
+E:\Tue\225\C#\Generic\Generic\bin\Debug\net10.0\Generic.pdb
+E:\Tue\225\C#\Generic\Generic\obj\Debug\net10.0\Generic.GeneratedMSBuildEditorConfig.editorconfig
+E:\Tue\225\C#\Generic\Generic\obj\Debug\net10.0\Generic.AssemblyInfoInputs.cache
+E:\Tue\225\C#\Generic\Generic\obj\Debug\net10.0\Generic.AssemblyInfo.cs
+E:\Tue\225\C#\Generic\Generic\obj\Debug\net10.0\Generic.csproj.CoreCompileInputs.cache
+E:\Tue\225\C#\Generic\Generic\obj\Debug\net10.0\Generic.sourcelink.json
+E:\Tue\225\C#\Generic\Generic\obj\Debug\net10.0\Generic.dll
+E:\Tue\225\C#\Generic\Generic\obj\Debug\net10.0\refint\Generic.dll
+E:\Tue\225\C#\Generic\Generic\obj\Debug\net10.0\Generic.pdb
+E:\Tue\225\C#\Generic\Generic\obj\Debug\net10.0\Generic.genruntimeconfig.cache
+E:\Tue\225\C#\Generic\Generic\obj\Debug\net10.0\ref\Generic.dll
