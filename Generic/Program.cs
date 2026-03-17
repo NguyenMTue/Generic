@@ -56,9 +56,9 @@ namespace Generic
                     case 11:
                         Bai11.Run();
                         break;
-                    // case 12:
-                    //     Bai12.Run();
-                    //     break;
+                    case 12:
+                        Bai12.Run();
+                        break;
                     // case 13:
                     //     Bai13.Run();
                     //     break;
